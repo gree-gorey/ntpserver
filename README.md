@@ -1,2 +1,2 @@
-# mysql-client
-Docker image for mysql client
+# ntpserver
+Docker image for ntpserver
