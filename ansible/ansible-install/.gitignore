@@ -1,7 +1,0 @@
-*.iml
-*.iws
-.idea
-.vagrant
-host_inventory
-Vagrantfile
-silo*
